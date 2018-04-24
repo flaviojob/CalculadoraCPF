@@ -1,0 +1,10 @@
+C:\Users\flavio.hrferreira\Logica\CalculadoraCPF\bin\Debug\netcoreapp2.0\CalculadoraCPF.deps.json
+C:\Users\flavio.hrferreira\Logica\CalculadoraCPF\bin\Debug\netcoreapp2.0\CalculadoraCPF.runtimeconfig.json
+C:\Users\flavio.hrferreira\Logica\CalculadoraCPF\bin\Debug\netcoreapp2.0\CalculadoraCPF.runtimeconfig.dev.json
+C:\Users\flavio.hrferreira\Logica\CalculadoraCPF\bin\Debug\netcoreapp2.0\CalculadoraCPF.dll
+C:\Users\flavio.hrferreira\Logica\CalculadoraCPF\bin\Debug\netcoreapp2.0\CalculadoraCPF.pdb
+C:\Users\flavio.hrferreira\Logica\CalculadoraCPF\obj\Debug\netcoreapp2.0\CalculadoraCPF.csproj.CoreCompileInputs.cache
+C:\Users\flavio.hrferreira\Logica\CalculadoraCPF\obj\Debug\netcoreapp2.0\CalculadoraCPF.AssemblyInfoInputs.cache
+C:\Users\flavio.hrferreira\Logica\CalculadoraCPF\obj\Debug\netcoreapp2.0\CalculadoraCPF.AssemblyInfo.cs
+C:\Users\flavio.hrferreira\Logica\CalculadoraCPF\obj\Debug\netcoreapp2.0\CalculadoraCPF.dll
+C:\Users\flavio.hrferreira\Logica\CalculadoraCPF\obj\Debug\netcoreapp2.0\CalculadoraCPF.pdb
